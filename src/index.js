@@ -65,7 +65,7 @@ const client = new Client({
 });
 
 const MEDIA_URL =
-  "https://share.creavite.co/6ae0fb68dd64a8969ca64959.gif";
+  "https://cdn.discordapp.com/attachments/1396227600401305827/1564724947748917481/standard.gif?ex=6ae24f2a&is=6ae0fdaa&hm=76ef35adcaf5ddfbbe3644a30a1cd014c997b95ea3697ca3ddd62eaad97f7f90&";
 
 const LANGS = {
   ar: {
