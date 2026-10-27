@@ -1,0 +1,16 @@
+{
+  "name": "discord-honeypot-bot",
+  "version": "1.0.0",
+  "description": "Discord Components V2 honeypot bot with /setup configuration.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "dependencies": {
+    "discord.js": "14.26.4",
+    "dotenv": "^17.2.2"
+  }
+}
